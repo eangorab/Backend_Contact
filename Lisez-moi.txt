@@ -1,0 +1,35 @@
+
+Reamde project Contact
+
+Application JAVA JEE
+
+Elle permet de gérer des contacts (id, nom, prenom, date de naissance, email, tel, photo)
+
+les fonctionnalités:
+
+- Saisir et ajout de contacts
+
+- Rechercher des contacts
+
+- Editer des contacts
+
+
+- Supprimer des contacts
+
+
+
+
+L'application se compose de 2 parties : 
+
+
+1 - Partie backend : basée sur du Spring
+	- Spring Data JPA
+	- Hibernate
+	- API RESTFUL
+
+
+2 - La partie front basée sur Angular Typescript
+
+
+
+
